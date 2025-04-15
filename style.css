@@ -1,0 +1,39 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.child1{
+    width: 20%;
+}
+.child2{
+    width: 20%;
+}
+.child3{
+    width: 20%;
+}
+.child4{
+    width: 20%;
+}
+.child5{
+    width: 20%;
+}
+img{
+    border-radius: 20px;
+}
+h3{
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 10px;
+}
+.star{
+    display: flex;
+    position: relative;
+    bottom: 120px;
+    left: 180px;
+}
+.row{
+    position: relative;
+    bottom: 7px;
+}
